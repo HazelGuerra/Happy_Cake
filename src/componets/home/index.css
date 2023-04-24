@@ -1,0 +1,25 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    align-items: center;
+    
+  }
+  
+.bienvenido{
+    font-size:50px ;
+}
+  .negrita {
+    font-weight: bold;
+  }
+  
+  .feliz {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .torta {
+    font-size: 80px;
+    margin-top: 20px;
+  }
